@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;700&family=Poppins:wght@300;600;700&family=Sora:wght@100&display=swap');
+  
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+
+}
+
+body {
+    background-color: #fff;
+}
+
+h1 {
+    margin: 50px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    color: #00a3ee;
+}
+
+p {
+    font-size: 40px;
+    color: #0f0f0f;
+    font-family: 'Sora', sans-serif;
+}
+
+img {
+    width: 70%;
+}
+
+footer {
+    margin-top: 5%;
+    color: #000000;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+#button{
+    color: #fff;
+    background-color: #dd0909;
+    border-color: #dd0909;
+    cursor: pointer;
+    overflow: hidden;
+    padding: 20px;
+    margin-top: 0%;
+    width: 200px;
+}
+#button:hover{
+    background-color: #ffffff;
+    border-color: #000000;
+    color: #000000;
+}
+
+.click-me {
+    margin-top: 10px;
+}
